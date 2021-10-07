@@ -1,0 +1,46 @@
+Tenha instalado em uma maquina o Anaconda
+
+==================================================================
+||| Crie um ambiente virtual pelo pronpt de comando do Anaconda3
+Escreve no Prompt do Anaconda3 |||     
+
+conda create --name "Nome_desejado" python=3.6
+
+Ative o ambiente com o seguinte comando    
+
+
+conda activate "nome_desejado"
+
+==================================================================
+
+||| Apos isso não esqueça de instalar as seguintes bibliotecas no 
+terminal do Anaconda3. |||
+
+pip install jupyter
+
+pip install chatterbot
+
+pip install spacy
+
+
+
+==================================================================
+
+||| Apos isso escreva no terminal |||
+
+ jupyter notebook
+
+Abra o arquivo dentro do Jupyter
+==================================================================
+
+
+
+
+Dev: Igor Borges
+
+Material para fins educacionais e estudo
+
+Contato: igorm4aster@gmail.com
+
+
+
